@@ -9,7 +9,7 @@ paginate: 15
 baseurl: /
 domain_name: 'http://akhilum.com'
 google_analytics: 'UA-XXXXXXXX-X'
-
+permalink: '/:year/:month/:title/'
 # Details for the RSS feed generator
 url:            'http://www.akhilum.com/'
 author:         'Akhil Umesh Mehendale'
