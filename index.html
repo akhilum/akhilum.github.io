@@ -42,9 +42,9 @@ about: 'about.html'
         </header>
         <section class="post-excerpt row">
             {% if post.thumbnail %}
-                <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' class='pull-left img-responsive thumb margin10 img-thumbnail'/>
+                <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' style="float:left"/>
             {% endif %}
-            <article style="min-height:100px" class='pull-right'>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
+            <article style="min-height:100px; float:right" class='pull-right'>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
         </section>
         <footer class="post-meta">
             {% if site.author %}
