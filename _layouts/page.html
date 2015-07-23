@@ -1,26 +1,32 @@
 ---
 layout: default
+post_class: post-template page-template
 ---
 
-<div class="row">
-  <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
-    <div class="page">
+<nav class="main-nav clearfix">
+    <a class="back-button icon-arrow-left" href="{{ site.baseurl }}">Home</a>
+    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}rss.xml">Subscribe</a>
+</nav>
 
-      <header class="page-header">
-        <h1 class="page-title">{{ page.title }}</h1>
-        {% if page.subtitle %}
-          <h5 class="page-subtitle"> {{ page.subtitle }} </h5>
-        {% endif %}
-        <small> <i class="fa fa-calendar"></i>
-          <time>
-            {{ page.date | date:'%A, %B %d, %Y'}}
-          </time>
-        </small>
-      </header>
 
-      <article class="page-content">
-        {{ content }}
-      </article>
-    </div>
-  </div>
-</div>
+<main class="content" role="main">
+    <article class="post">
+        <!-- <header class="post-header">
+            <a id="blog-logo" href="{{site.baseurl}}">
+                {% if site.logo %}
+                    <img src="{{site.logo}}" alt="{{ site.name }}" />
+                {% else %}
+                    <span class="blog-title">{{ site.name }}</span>
+                {%endif%} 
+            </a>
+        </header> -->
+
+        <h1 class="post-title">{{ page.title }}</h1>
+
+        <section class="post-content">
+            {{content}}
+        </section>
+
+    </article>
+
+</main>
