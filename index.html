@@ -40,11 +40,11 @@ about: 'about.html'
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-        <section class="post-excerpt row">
+        <section class="post-excerpt">
             {% if post.thumbnail %}
                 <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' style="float:left"/>
             {% endif %}
-            <article style="min-height:100px; float:right" class='pull-right'>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
+            <article style="min-height:100px; float:right" align='justify'class='pull-right'>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
         </section>
         <footer class="post-meta">
             {% if site.author %}
