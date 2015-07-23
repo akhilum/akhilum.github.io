@@ -42,7 +42,9 @@ about: 'about.html'
         </header>
         <section class="post-excerpt">
             {% if post.thumbnail %}
-                <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' style="float: left; margin-right: 10px; height:100px; width:100px; clear:both;"/>
+                <div style="width:110px; height:110px; overflow:hidden;">
+                    <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' style="float: left; margin-right: 10px; clear:both;"/>
+                </div>
             {% endif %}
             <article style="min-height:100px;" align='justify'>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
         </section>
