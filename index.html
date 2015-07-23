@@ -44,7 +44,7 @@ about: 'about.html'
             {% if post.thumbnail %}
                 <img src='{{ post.thumbnail }}' alt='THUMBNAIL MISSING' class='pull-left img-responsive thumb margin10 img-thumbnail'/>
             {% endif %}
-            <article style="min-height:100px"><p>{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></p></article>
+            <article style="min-height:100px">{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a></article>
         </section>
         <footer class="post-meta">
             {% if site.author %}
