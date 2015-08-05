@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Review : 100$ Startup by Chris Guillebeau"
-date:   2013-11-10 10:18:00
+date:   2015-03-25 10:18:00
 categories: Book-Review Startup
 thumbnail: "/assets/images/100_dollar_startup.jpg"
 --- 
