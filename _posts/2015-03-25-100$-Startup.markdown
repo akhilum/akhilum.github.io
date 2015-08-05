@@ -1,23 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-categories: Thriller Comedy Horror
-thumbnail: "/assets/images/jekyll.png"
----
-
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-abcd
-
----
-layout: post
-title:  "Review : 100$ Startup by Chris Guillebeau"
+title:  "100$ Startup by Chris Guillebeau - Book Review"
 date:   2015-03-25 10:18:00
-categories: Book-Review Startup
+categories: Book Review Startup
 thumbnail: "/assets/images/100_dollar_startup.jpg"
---- 
+---
+
 
 This book is a simple guide to start and run a startup. The author focuses on
 creating simple businesses like travel websites and ticket books. It is a quick
