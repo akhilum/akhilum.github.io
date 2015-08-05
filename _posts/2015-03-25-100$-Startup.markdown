@@ -1,4 +1,10 @@
- 
+---
+layout: post
+title:  "Review : 100$ Startup by Chris Guillebeau"
+date:   2013-11-10 10:18:00
+categories: Book-Review Startup
+thumbnail: "/assets/images/100_dollar_startup.jpg"
+--- 
 
 This book is a simple guide to start and run a startup. The author focuses on
 creating simple businesses like travel websites and ticket books. It is a quick
@@ -7,7 +13,7 @@ book provides. The book also shows the author's lifestyle. It touches all the
 topics of starting a startup and provides inspirational stories.   
 
 
-\_\_\_\_
+____
 
 **Pros:-**
 
