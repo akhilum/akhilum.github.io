@@ -22,6 +22,7 @@ ____
 This article is about the stock market crash of 1962. It describes how the rate of spread of information and lateness affects the entire system. It describes how the stock market worked before and after the crash. It compares the stock market crashes of 1962 and 1929.
 
 ### 2. The Fate of the Edsel
+
 ![Ford Edsel](/assets/images/business_adventures_3.jpg)
 
 This article describes the conception, development and the market response of Ford Edsel. How Ford went through a huge “*motor*” adventure. Starting 1955 with the conception and release of the Edsel in 1957-1959. How Wallace and his theoretical market research used to design the car couldn't help mitigate the risk. How the risk was borne and the chapter put behind.
@@ -57,6 +58,7 @@ The need for clear communication and policies as corporations grow larger and la
 The accidental stock market corner in midsummer 1958 by Clarence Saunder, the proprietor of piggly wiggly stores. Explains the concept of market corners and the business adventure that clarence saunders went through.
 
 ### 9. A Second Sort of Life
+
 ![lilienthal](/assets/images/business_adventures_4.jpg)
 
 An article about the post retirement “stint” of Mr. TVA, David E lilienthal. The author contrasts his work with the public sector Tennessee Valley Association between 1933-1941 and then his second life as a private consultant in the business of helping governments set up programs similar to TVA’s. How Mr. Lilienthal helped develop many countries. How his views may have changed from being in a public servant role to an entrepreneurial role. How Mr. TVA starts respecting financiers.
@@ -68,5 +70,7 @@ A lively description of how professional stockholder meetings are held. The cate
 A case study about sharing information gained during employment - “Trade Secrets”.
 
 ### 12. In Defense of Sterling
+
 ![Sterling](/assets/images/business_adventures_5.jpg)
+
 The author describes the chain of events that happened in march 1964 and that continues till the sterling pound devalued. Through this story the author explains the role played by the federal reserve bank. It gives us a glimpse into international finance, describes how the various financial association came into being, how currency rates fluctuate, how the central bank exchange rates steer the economy, how currency valuation and bank rates induce inflation and deflation.
