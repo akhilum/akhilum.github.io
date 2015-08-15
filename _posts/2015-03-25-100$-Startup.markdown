@@ -2,7 +2,7 @@
 layout: post
 title:  "100$ Startup by Chris Guillebeau - Book Review"
 date:   2015-03-25 10:18:00
-categories: Book Review Startup
+categories: Book-Review Startup
 thumbnail: "/assets/images/100_dollar_startup.jpg"
 excerpt: "The author discusses how to create simple businesses through his experience and research. I review the book and list out why you will read it."
 ---
