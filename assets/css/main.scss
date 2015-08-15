@@ -8,17 +8,6 @@
 	display:inline;
 }
 
-img {
-   float: left;
-   margin-right: 10px; 
-   clear:both;
-   max-width: 200px;
-}
-
-p {
-   align: justify;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
