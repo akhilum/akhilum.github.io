@@ -5,11 +5,13 @@ date:   2015-06-19 10:18:00
 categories: Book-Review Economics
 thumbnail: "/assets/images/business_adventures.jpg"
 excerpt: "The author discusses how to create simple businesses through his experience and research. I review the book and list out why you will read it."
-cover: : "/assets/images/business_adventures_1.jpg"
+cover: "/assets/images/business_adventures_1.jpg"
 ---
  
 
 Business Adventures by John Brooks is informative and enjoyable. The author takes a financial snapshot of the 60’s and analyzes 12 business adventures that happened during the period. In my opinion, the 12 stories show that hard work, optimism and a desire to do good are necessary to run large business machinery. The book teaches a lot about economics, management practices and human behavior. Maybe that is why Warren Buffett and Bill Gates love this book.
+
+![Business Adventures Cover](/assets/images/business_adventures_1.jpg)
 
 John Brooks has interviewed the people involved in these adventures in great detail. He uses these interviews to circumspectly narrate tales about these business adventures. His narration makes these insipid events in history more lively and personal.
 
