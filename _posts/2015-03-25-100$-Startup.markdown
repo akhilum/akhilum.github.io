@@ -4,6 +4,7 @@ title:  "100$ Startup by Chris Guillebeau - Book Review"
 date:   2015-03-25 10:18:00
 categories: Book Review Startup
 thumbnail: "/assets/images/100_dollar_startup.jpg"
+excerpt: "A brief review about the book 100$ Startup by Chris Guillebeau. I list out the summary, good and the bad."
 ---
 
 
