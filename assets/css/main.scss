@@ -8,7 +8,9 @@
 	display:inline;
 }
 
-p#given img { float: right }
+img {
+   float: right;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
