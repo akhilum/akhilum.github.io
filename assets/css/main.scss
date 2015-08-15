@@ -12,6 +12,11 @@ img {
    float: left;
 }
 
+p {
+   align: justify;
+   max-width: 200px;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
