@@ -17,7 +17,6 @@ ____
 ##The book is split up into these 12 independent stories:-
 
 ### 1. The Fluctuation.
-![The Fluctuation](/assets/images/business_adventures_2.jpg)
 
 This article is about the stock market crash of 1962. It describes how the rate of spread of information and lateness affects the entire system. It describes how the stock market worked before and after the crash. It compares the stock market crashes of 1962 and 1929.
 
@@ -39,11 +38,11 @@ Then the system under the next IRS commissioner Sheldon S Cohen is also describe
 
 ### 4. A Reasonable Amount of Time
 
-![Xerox 914](/assets/images/business_adventures_xerox.jpg)
-
 A glimpse into the securities world of 1963-1964. How the office bearers of Texas Gulf were grilled for trading with insider information and setting of compliance standards by the SEC.
 
 ### 5. Xerox
+
+![Xerox 914](/assets/images/business_adventures_xerox.jpg)
 
 Article about the cinematic history and rise of XeroX from 1964 through 1967. The Rochester industrial scene. A peek into copyrights & IP. Interviews with Horace W. Becker the chief engineer at Xerox. Very insightful chapter about a path breaking technological company.
 
