@@ -4,18 +4,15 @@ title:  "100$ Startup by Chris Guillebeau - Book Review"
 date:   2015-03-25 10:18:00
 categories: Book Review Startup
 thumbnail: "/assets/images/100_dollar_startup.jpg"
-excerpt: "A brief review about the book 100$ Startup by Chris Guillebeau. I list out the summary, good and the bad."
+excerpt: "The author discusses how to create simple businesses through his experience and through research. I review the book and list out why you will read it."
 ---
 
 
-This book is a simple guide to start and run a startup. The author focuses on
-creating simple businesses like travel websites and ticket books. It is a quick
-read. The book is well researched and this shows in all the details that the
-book provides. The book also shows the author's lifestyle. It touches all the
-topics of starting a startup and provides inspirational stories.   
+| ![100 Dollar Startup](/assets/images/100_dollar_startup.jpg) |  This book is a simple guide to start and run a startup. The author focuses on
+creating simple businesses like travel websites and ticket books. It is a quick read. The book is well researched and this shows in all the details that the book provides. The book also shows the author's lifestyle. It touches all the topics of starting a startup and provides inspirational stories.  |
 
 
-**Pros:-**
+**The Good:-**
 
   
 The author provides a definitive guide with examples for starting and running a
@@ -32,7 +29,7 @@ topics that I like how the author covers are :-
 4.  Advertisement and raising funds among others.
 
   
-**Cons:-**
+**The Bad:-**
 
 The author tries to give many examples about why it is a good idea to start your
 own business. But proof by examples can only be used to disprove an idea and not
