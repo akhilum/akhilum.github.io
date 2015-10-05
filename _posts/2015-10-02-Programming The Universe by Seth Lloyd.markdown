@@ -5,7 +5,7 @@ date:   2015-06-19 10:18:00
 categories: Book-Review Science Quantum-Computing
 thumbnail: "/assets/images/programming_the_universe.jpg"
 excerpt: "The universe is a giant quantum computer. All of its matter and energy process information in such a manner that it computes itself. The author, Seth Lloyd, first gives a primer of how the universe is a giant information processing system in a lucid manner; then in a pedantic and dense language explains how the universe computed complicated things like life and human beings."
-cover: "/assets/images/programming_the_universe_1.jpg"
+cover: "/assets/images/programming_the_universe.jpg"
 ---
  
 
