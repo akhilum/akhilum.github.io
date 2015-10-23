@@ -4,7 +4,7 @@ title:  "Programming the Universe - Book Review"
 date:   2015-09-21 10:18:00
 categories: Book-Review Science Quantum-Computing
 thumbnail: "/assets/images/programming_the_universe_thumb.jpg"
-excerpt: "The universe is a giant quantum computer. The author, Seth Lloyd, first gives a primer of how the universe is a giant information processing system in a lucid manner; then in a pedantic and dense language explains how the universe computed complicated structures like life and human DNA."
+excerpt: "The author, Seth Lloyd, explains how the universe is a giant quantum computer in a lucid manner; then in a very pedantic and dense language explains how the universe computed complicated structures like the human DNA."
 cover: "/assets/images/programming_the_universe_hubble_floating.jpg"
 ---
  
@@ -18,7 +18,7 @@ The first section of the book is a page turner, whereas, the second section is d
 
 Just after the [big bang](https://en.wikipedia.org/wiki/Big_Bang) the universe was nothing but an even quantum field the size of an atom.
 
-Then the universe expanded. Expansion sucked the enrgy out of the quantum field and this energy was balanced out by generating an equal and opposite gravitational field (1st law of thermodynamics: Energy is conserved). The expansion of the universe continues (2nd law of thermodynamics: Entropy of the system always increases).
+Then the universe expanded. Expansion sucked the enrgy out of the quantum field and this energy was balanced out by generating an equal and opposite gravitational field (1st law of thermodynamics: Energy is conserved). The expansion of the universe continues till date (2nd law of thermodynamics: Entropy of the system always increases).
 
 ![Expanding Universe, Increasing Entropy](/assets/images/programming_the_universe_1.jpg)
 
