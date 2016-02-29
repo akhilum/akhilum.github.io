@@ -2,7 +2,7 @@ name: Akhil's Blog
 description: Blog about stuff I read , experience and code.
 meta_description: "Akhil Umesh Mehendale's Blog on code, life and books"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
