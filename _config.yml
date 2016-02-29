@@ -3,7 +3,7 @@ description: Blog about stuff I read , experience and code.
 meta_description: "Akhil Umesh Mehendale's Blog on code, life and books"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
