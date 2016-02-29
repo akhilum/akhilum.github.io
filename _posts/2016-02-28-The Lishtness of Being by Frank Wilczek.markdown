@@ -7,13 +7,22 @@ thumbnail: "/assets/images/lightness_of_being.jpg"
 excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
  
+#Review
 
-Origin of Mass
+The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to brink you up to speed with the latest in science.
 
-Art is just as much beautiful through the eyes of a scientist.
-A profound truth is a statement whose opposite is also a profound thuth.
-Classical physics acquisced about mass as being massy. Newtons explaination was that is mass is forever conserved untill god creates it or destroys it. Then God is the creator of mass.
-Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
+The language is simple and the tone of the book is comical. The author tries to bring in a storylike narrative to drive home the dense concepts being talked about. The concepts are explained in a very imaginative way and the book is very well edited. This book also manages to conceal a generous amount of life lessons as well.
+
+The chapters on "the GRID" and "SUSY" are a bit insipid but the author owns up to the fact in the book. These have important scientific facts and they tend to be drab.
+
+All in all, this is an excellent read. I would definately recomend this book to one and all.
+
+_______________________________________
+
+
+#Summary
+
+> Classical physics acquisced about mass as being massy. ... Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
 
 Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter. But to no avail. It was giving them more sub atomic particles. They called them hadrons.
 
