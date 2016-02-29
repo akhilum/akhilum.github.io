@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "The Lightness of Being by Frnk Wilczek - Book Review"
+title:  "The Lightness of Being by Frank Wilczek - Book Review"
 date:   2016-02-28 10:18:00
 categories: Book-Review Science
 thumbnail: "/assets/images/lightness_of_being.jpg"
 excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
  
-#Review
+##Review
 
 The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to brink you up to speed with the latest in science.
 
@@ -20,7 +20,7 @@ All in all, this is an excellent read. I would definately recomend this book to 
 _______________________________________
 
 
-#Summary
+###Summary
 
 > Classical physics acquisced about mass as being massy. ... Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
 
