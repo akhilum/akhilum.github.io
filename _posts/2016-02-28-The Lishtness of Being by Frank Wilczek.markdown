@@ -3,8 +3,8 @@ layout: post
 title:  "The Lightness of Being by Frnk Wilczek - Book Review"
 date:   2016-02-28 10:18:00
 categories: Book-Review Science
-thumbnail: "/assets/images/100_dollar_startup.jpg"
-excerpt: "The author discusses how to create simple businesses through his experience and research. I review the book and list out why you will read it."
+thumbnail: "/assets/images/lightness_of_being.jpg"
+excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
  
 
