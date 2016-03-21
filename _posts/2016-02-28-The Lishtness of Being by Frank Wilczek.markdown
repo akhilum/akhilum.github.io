@@ -7,7 +7,8 @@ thumbnail: "/assets/images/lightness_of_being.jpg"
 excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
 
- 
+
+
 ## Review ##
 
 The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to bring you up to speed with the latest in science.
@@ -124,8 +125,9 @@ QED equations were in place by 1931 but people were getting nonsensical results 
 
 *Gluons* were discovered as a solution to a class of equations called Chen Ning Yang &Amp; Robert Mills equations in 1954. They were a mathematical generalization of Maxwell's Equations of Electrodynamics to support different type of charges and be symmetrical.
 
-####1960's:
 ______________
+
+#### 1960's : ####
 
 In the early 1960's Hadrons are found. Murray Gell-Mann &Amp; George Zweig propose the quark model. Hadrons of different mass, spins &Amp; lifetimes can be assembled using quarks (up, down and strange).
 
@@ -137,13 +139,15 @@ These different alignments of different quarks are allowed in different states (
 
 Feynman gave up when he realized that the equations for QED introduced space filling fields that allowed interaction between electrons and photons. Electromagnetic field interacts with fluctuation in electron field.
 
-####1970's;
 ______________
+
+#### 1970's ####
 
 Early 1970's : Jereome Friedman, henry Kendall, richard Taylor &Amp; collaborators at SLAC studies protons. SLAC gives the precise position &Amp; momentum for very precise time by taking multiple snapshots and taking a Fourier transform. Each image developed by SLAC looks like pepperoni pizza. With the pepperoni's at different places representing the Quarks.
 
-####1973:
 ___________
+
+#### 1973 : ####
 
 In 1973, David Gross and the author, Frank Wilczek proposed *Gluons* as a type of generalized Maxwell equations to accommodate more charges. They are called Colour charges. They explain strong forces and asymptotic freedom.
 
@@ -151,7 +155,7 @@ LEP shows us that the quarks(fundamental particles) are covered with their cloud
 
 In the LEP, the quark was out of equilibrium due to being suddenly expelled  out from a virtual photon. Hence we see
 
-	e + e' &rarr; &gamma; virtual photon &rarr; Q+ Q.
+e + e' &rarr; &gamma; virtual photon &rarr; Q+ Q.
 
 The quark and antiquark each have a cloud of virtual particles around them. The seed colour charge of the quark is very small but due to the screening by the virtual particles the charge appears to grow with distance. But when a quark and antiquark are in equilibrium they cancel out their charges. Antiscreening is the magnifying of the seed color charge by the virtual particles.
 In 1973 the author and Gross came up with a relativistic Quantum Field theory to explain this. The author called this generalized Yang and Mills equations as QCD.
@@ -159,8 +163,9 @@ In 1973 the author and Gross came up with a relativistic Quantum Field theory to
 	> QCD has 3 colors(Red Blue and Green) and 3 flavours(Up Down and Strange).
 	> Photon:electroMagnetic:QED :: Gluon:ColorCharge:QCD
 
-GRID
-_____
+##### GRID #####
+__________________
+
 QCD teaches us that the empty space is actually a powerful medium filled with activity and virtual particles that are alive for only seconds.
 The author uses the term GRID as 'space-time' has the historic baggage of emptiness. But grid is essentially a new way to look at space time.
 GRID view is actually viewing empty space as a super imposition of different grids over empty space
@@ -174,9 +179,9 @@ Matter originally only had the properties of shape and motion. Now we add these 
 >	* The grid contails a metric field that gives grid spacetime rigidity and causes gravity.
 >	* The grid weighs with a universal density
 
-
-####1979:
 ___________
+
+#### 1979 :####
 
 Condensates :-
 Empty space gives out a Q + Q' as QQ' molecules. These are called &sigma; mesons. &sigma; meson can be verified using their vibrations, the &pi; mesons. This lead to the Nobel prize in 1979 which got us the standard model or *Glashow-Weinberg-Salam* model.
@@ -185,13 +190,15 @@ Empty space gives out a Q + Q' as QQ' molecules. These are called &sigma; mesons
 	Activity in photon field creates electromagnetism;
 	Activity in color gluon fields creates strong interaction.
 
-####1998:
 ___________
+
+#### 1998 : ####
 
 In 1998 scientists/cosmic observers reported that the rate of expansion of our universe is increasing. The reason given was universal negative pressure. People started using the term dark energy as a standard to refer to both the mass and negative pressure of the grid.
 
-####2001:
 ___________
+
+#### 2001 : ####
 
 By 2001, scientists were able to measure cosmic densities and pressures separately by observing the cosmic microscope background radiation. In 2001 scientists also proclaimed that there is much more matter than that is observable &Amp; that 70% of it is uniformly distributed.
 
@@ -199,13 +206,11 @@ By 2001, scientists were able to measure cosmic densities and pressures separate
 So the fact that the grid weights as & it has a non zero density is a proof of its physical reality.
 Grid density = Einstiens cosmological term = "dark energy"
 
+Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
 	
 
-Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
 
-
-
-###Some Interesting Concepts
+### Some Interesting Concepts ###
 _________________________________
 
 
