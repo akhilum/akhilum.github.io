@@ -32,7 +32,7 @@ _________
 	
 Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
 
-![Newtons Bucket](/images/assets/LishtnessOfBeingNewtonsBucket.jpg)
+![Newtons Bucket](/images/assets/LightnessOfBeingNewtonsBucket.jpg)
 
 ___________
 
@@ -93,17 +93,17 @@ In 1920's paper on general relativity he said that 1905 special relativity paper
 
 Special theory unified electromagnetism and Newtonian physics. General theory introduced a field based theory of gravity. A direct result of special relativity is quantum fields. Quantum electro magnetic fields that obey Maxwell equations. These fields have energy packed in discrete units, which we call today as photons.
 
-	##### Metric Field #####
+##### Metric Field #####
 
-	____________
+____________
 
 >	"According to general theory of relativity space without ether is unthinkable; for in such space there not only would be no propogation of light but also no possibility of existance for standards of space and time, nor therefore any space time intervals in the physical sense." - Einstein, 1920
 
-	Like the grid on the map of the earth tells us how to interpret distance. Our 3D world also has a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
+Like the grid on the map of the earth tells us how to interpret distance. Our 3D world also has a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
 
-	![Metric Field](/assets/images/LightnessOfBeingGeneralRelativity.jpg)
+![Metric Field](/assets/images/LightnessOfBeingGeneralRelativity.jpg)
 
-	In general theory of relativity Einstein used the concept of curved space-time to construct a theory of gravity and explained momentum as bodies move in the straightest possible path through space time. When space time is curved the path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field. The equations of the field view of gravity are symmetrical to the field view of electromagnetism.
+In general theory of relativity Einstein used the concept of curved space-time to construct a theory of gravity and explained momentum as bodies move in the straightest possible path through space time. When space time is curved the path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field. The equations of the field view of gravity are symmetrical to the field view of electromagnetism.
 
 ___________
 
@@ -111,13 +111,14 @@ ___________
 
 Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter, but to no avail. It was giving them more sub atomic particles. They called them hadrons.
 
->	electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
->	2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
+electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
+2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
 
 At that time Quarks / Partons were a mathematical propositions by Gellman and Feynman to solve theoretical equations. The particle smashing experiments in the ultrastroboscopic-nano-microscope evetually lead to the discovery of quarks. That lead to the development of quantum mechanics. Then came gluon's to further explain them. Quarks and Gluons are the final building blocks which form the whole universe. They have weird properties and they are qualitatively different in the sense that they are *embodied ideas* (captured entropies).
 
-####1954:
 ___________
+
+#### 1954 : ####
 
 QED equations were in place by 1931 but people were getting nonsensical results out of them until 1950. In 1950 Hans Bethe, Sin-Hiro, Tomonaga, Julian Schwinger, Feynman and Freeman Dyson used Feynman diagrams to correct and explain QED.  The essence of QED is that photons respond to presence and motion of electric charge. It explains electrodynamics, theory of electromagnetic fields and radiation.
 
