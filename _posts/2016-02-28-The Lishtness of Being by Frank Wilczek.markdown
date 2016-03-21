@@ -28,7 +28,7 @@ For me this book told a story of human grit and determination to determine what 
 _________
 
 
-#### 1692: ####
+#### 1692 : ####
 	
 Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
 
@@ -36,43 +36,44 @@ Newton and his contemporaries gave mathematical reasoning to help us describe th
 
 ___________
 
-####1873:
+#### 1873 : ####
 
 James Clerk Maxwell and Michael Faraday layout the theory of classical electromagnetism. They represent electricity and magnetism as waves. This helped develop motors, dynamos and lamps.
 
 __________
 
-####1899:
+#### 1899 : ####
 
 Max Plank said that atoms could exchange energy only in packets, a.k.a. *Quantas*. He came to this result as a conclusion to solve the age old problem of absolute units laid out by Pythagoras of Samoa.
 Max Plank laid out the universal constants for time, speed and energy.
 
 ![Absolute Plank Units](/assets/images/LightnessOfBeing_PlankUnits.gif)
 
-The 20th century physicists realized that C G and h play the role of conversion factors needed to express a profound physical concept.
-+ Special relativity mixes space and time into spacetime. It does so using Lorentz Transforms a.k.a. boosts. To do this you need a conversion factor between a unit of space and a unit of time. The conversion factor is *c*.
-+ Quantum theory says E=h*&mu;. Wave particle duality. Where *h* is the conversion factor. It also says that momentum is inverely proportinal to wavelength &lambda;.
-+ General relativity says that energy momentum density inducess space time curvature. *G* is the conversion factor.
+The 20th century physicists realized that *c, G and h* play the role of conversion factors needed to express a profound physical concept.
+
+	* Special relativity mixes space and time into spacetime. It does so using Lorentz Transforms a.k.a. boosts. To do this you need a conversion factor between a unit of space and a unit of time. The conversion factor is *c*.
+	* Quantum theory says E=h*&mu;. Wave particle duality. Where *h* is the conversion factor. It also says that momentum is inverely proportinal to wavelength &lambda;.
+	* General relativity says that energy momentum density inducess space time curvature. *G* is the conversion factor.
 
 At that time Plank has correct equations but the results were inconsistent with the existing ideas and laws at that time. It was experimentally verified but theoretically his ideas were an outcast.
 
 __________
 
-####1905:
+#### 1905 : ####
 
-Einstein expanded the theory to state that light always exists in quanta of momentum and energy .
-Chemistry has made a huge progress and had reached the atomic stage. Classical electrodynamics thought of electricity as a fluid and that it needed a medium to flow. The turn of the 20th century saw the beginning of Quantum Electrodynamics or *QED*. Which explained that electricity actually moved through vacuum as a wavicle or a particle-wave. QED tried to explain the 1897 Hertz experiment of movement of electricity through vacuum. Einstein had doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave.
+Einstein expanded the theory to state that light always exists in quanta of momentum and energy.
+Chemistry has made a huge progress and had reached the atomic stage. Classical electrodynamics thought of electricity as a fluid and that it needed a medium to flow. The turn of the 20th century saw the beginning of Quantum Electrodynamics or *QED*. Which explained that electricity actually moved through vacuum as a wavicle or a particle-wave. QED tried to explain the 1897 Hertz experiment of movement of electricity through vacuum. Einstein had doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave".
 His 1909 paper explained how photons have both momentum and energy - wave particle duality. If many singularity points were next to each other then the superposition of these waves would give rise to EM theory of light." He thought that the photons were localized EM fields which arise around the singularity points, i.e., EM did not fill space but concentrated around singularities. 1905 special relativity tells us to think of space as a ether based theory of Electro Magnetism. This theory gave us the equation E=mc<sup>2</sup> .
 
 ___________
 
-####1915:
+#### 1915 : ####
 
 Einstein gave us the general theory of relativity. This theory models space as space time and explains how matter and energy can interact with space and time. His theories were proven experimentally. 
 
 ___________
 
-####1917:
+#### 1917 : ####
 
 In 1917, Einstein proposed a modification to his original equations of 1915 because cosmologists discovered that the universe is not collapsing onto itself due to gravity. As per Newtons 1692 understanding if the universe did not have a constant density, then Gravity would cause it to collapse onto itself. To allow his general relativity gravity to be consistent with special relativity, the only mathematically feasible solution was to add a cosmological constant term. By the 1920's, Edwin Hubble showed that the universe was actually expanding. So the cosmological term actually started to make sense.
 
@@ -80,35 +81,38 @@ In 1918 -1925 Einstein developed the Bose-Einstein statistics with *Satendra Nat
 
 So space has a constant density &rho; and a constant pressure everywhere in space *p* such that 
 	
-	> &rho; = *p/(c<sup>2</sup>)*.
+> &rho; = *p/(c<sup>2</sup>)*.
 
 It means that even if the space was expanded or contracted, the pressure that goes along with the density gets modified in such a way that the density always remains constant. This is the *GRID* density we will refer to later.
 
 ___________
 
-
-####1920:
+#### 1920 : ####
 
 In 1920's paper on general relativity he said that 1905 special relativity paper tells that the space as per special relativity theory space is a ether based medium. The general relativity paper introduced a new field - Gravitational field.
 
 Special theory unified electromagnetism and Newtonian physics. General theory introduced a field based theory of gravity. A direct result of special relativity is quantum fields. Quantum electro magnetic fields that obey Maxwell equations. These fields have energy packed in discrete units, which we call today as photons.
 
-	#Metric Field
+	##### Metric Field #####
+
 	____________
 
-		>	"According to general theory of relativity space without ether is unthinkable; for in such space there not only would be no propogation of light but also no possibility of existance for standards of space and time, nor therefore any space time intervals in the physical sense." - Einstein, 1920
+>	"According to general theory of relativity space without ether is unthinkable; for in such space there not only would be no propogation of light but also no possibility of existance for standards of space and time, nor therefore any space time intervals in the physical sense." - Einstein, 1920
 
 	Like the grid on the map of the earth tells us how to interpret distance. Our 3D world also has a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
 
+	![Metric Field](/assets/images/LightnessOfBeingGeneralRelativity.jpg)
+
 	In general theory of relativity Einstein used the concept of curved space-time to construct a theory of gravity and explained momentum as bodies move in the straightest possible path through space time. When space time is curved the path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field. The equations of the field view of gravity are symmetrical to the field view of electromagnetism.
 
-####1930: 
 ___________
 
-Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter. But to no avail. It was giving them more sub atomic particles. They called them hadrons.
+#### 1930 : #### 
 
-	electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
-	      2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
+Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter, but to no avail. It was giving them more sub atomic particles. They called them hadrons.
+
+>	electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
+>	2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
 
 At that time Quarks / Partons were a mathematical propositions by Gellman and Feynman to solve theoretical equations. The particle smashing experiments in the ultrastroboscopic-nano-microscope evetually lead to the discovery of quarks. That lead to the development of quantum mechanics. Then came gluon's to further explain them. Quarks and Gluons are the final building blocks which form the whole universe. They have weird properties and they are qualitatively different in the sense that they are *embodied ideas* (captured entropies).
 
