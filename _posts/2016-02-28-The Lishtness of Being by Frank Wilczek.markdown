@@ -9,81 +9,184 @@ excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass,
  
 ##Review
 
-The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to brink you up to speed with the latest in science.
+The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to bring you up to speed with the latest in science.
 
 The language is simple and the tone of the book is comical. The author tries to bring in a storylike narrative to drive home the dense concepts being talked about. The concepts are explained in a very imaginative way and the book is very well edited. This book also manages to conceal a generous amount of life lessons as well.
 
-The chapters on "the GRID" and "SUSY" are a bit insipid but the author owns up to the fact in the book. These have important scientific facts and they tend to be drab.
+The chapters on "the GRID" and "SUSY" are a bit insipid but the author owns up to the fact in the book. These have important scientific facts which tend to be drab.
 
 All in all, this is an excellent read. I would definately recomend this book to one and all.
 
 _______________________________________
 
 
-###Summary
+###Summary 
 
-> Classical physics acquisced about mass as being massy. ... Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
+For me this book told a story of human grit and determination to determine what are these concepts of time, space and energy. This book spoke to me and helped me understand the history. Here is a brief timeline :-
+
+
+####1692:
+_________
+	
+Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
+
+[http://images.slideplayer.com/19/5837101/slides/slide_7.jpg](http://images.slideplayer.com/19/5837101/slides/slide_7.jpg)
+
+####1846:
+_________
+
+In 1846, 200 years after Newton encoded Kepler's three laws of planetary motion in his laws of gravity, we observe discrepancies in the orbit of Uranus. [*Urbion Le Verrier*](https://en.wikipedia.org/wiki/Urbain_Le_Verrier) found he could account for these by assuming a new planet - Neptune! Science has made breakthroughs for like this consistently for the last couple of centuries helping mankind. As a society we have now completely exited the renaissance period and entering the modern period.
+
+[https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg](https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg)
+
+####1873:
+___________
+
+James Clerk Maxwell and Michael Faraday layout the theory of classical electromagnetism. They represent electricity and magnetism as waves and this helped develop motors, dynamos and lamps.
+
+####1899:
+__________
+
+Max Plank said that atoms could exchange energy only in packets, a.k.a. *Quantas*. He came to this result as a conclusion to solve the age old problem of absolute units laid out by Pythagoras of Samoa.
+Max Plank laid out the universal constants for time, speed and energy. At that time Plank has solid equations but the results were inconsistent with the existing ideas and laws at that time. Thus began the revolution. It was experimentally verified but theoretically his ideas were an outcast.
+	
+####1905:
+__________
+
+Einstein expanded the theory to state that light always exists in quanta of momentum and energy . Chemistry has made a huge progress and has reached the atomic stage. Classical electrodynamics thought of electricity as a fluid and that it needed a medium to flow. The turn of the 20th century saw the beginning of Quantum Electrodynamics or *QED*. Which explained that electricity actually moved through vacuum as a wavicle or a particle-wave. QED tried to explain the 1897 Hertz experiment of movement of electricity through vacuum. Einstein had doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave. His 1909 paper explained how photons have both momentum and energy - wave particle duality. If many singularity points were next to each other then the superposition of these waves would give rise to EM theory of light." He thought that the photons were localized EM fields which arise around the singularity points, i.e., EM did not fill space but concentrated around singularities. 1905 special relativity tells us to think of space as a ether based theory of Electro Magnetism. This theory gave us the equation E=mc<sup>2</sup> .
+
+####1915:
+___________
+
+Einstein gave us the general theory of relativity. This theory models space as space time and explains how matter and energy can interact with space and time. His theories were checked experimentally.
+
+####1917:
+___________
+
+In 1917, Einstein proposed a modification to his original equations of 1915 because cosmologists discovered that the universe is not collapsing onto itself due to gravity. As per Newtons 1692 understanding if the universe did not have a constant density Gravity would cause it to collapse onto itself. To allow his general relativity gravity to be consistent with special relativity, the only mathematically feasible solution was to add a cosmological constant term. By the 1920's, Edwin Hubble showed that the universe was actually expanding. So the cosmological term actually started to make sense.
+
+In 1918 -1925 Einstein developed the Bose-Einstein statistics with *Satendra Nath Bose* to describe Bose-Einstein condensates. Which form the basis of our super fluidity, super conductivity and the GRID.
+
+So space has a constant density &rho; and a constant pressure everywhere in space *p* such that 
+&rho; = *p/(c<sup>2</sup>)*.
+It means that even if the space was expanded or contracted, the pressure that goes along with the density gets modified in such a way that the density always remains constant.
+
+####1920:
+___________
+
+In 1920's paper on general relativity he said that 1905 special relativity paper tells that the space as per special relativity theory space is a ether based medium. The general relativity paper introduced a new field. Gravitational field.
+
+Special theory unified electromagnetism and Newtonian physics. General theory introduced a field based theory of gravity. A direct result of special relativity is quantum fields. Quantum electro magnetic fields that obey Maxwell equations. These fields have energy packed in discrete units, which we call today as photons.
+
+####1930: 
+___________
 
 Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter. But to no avail. It was giving them more sub atomic particles. They called them hadrons.
 
-electron + positron -> 10 Pi Mesons + proton + antiproton
-2 x 10^-28 gms      -> 6 x 10^-24 gms
+	electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
+	      2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
 
-At that time Quarks / Partons were only mathematical propositions by Gellman and Feynmann to solve theoretical equations. The particle smashing experiments in the ultrastroboscopic-nano-microscope evetually lead to the discovery of quarks. That lead to the development of quantum mechanics. Then came gluons to further explain them. Quarks and Gluons are the final building blocks which form the whole universe. They have weird properties and they are qualitatively different in the sense that they are "embodied ideas" (captured entropies).
+At that time Quarks / Partons were a mathematical propositions by Gellman and Feynman to solve theoretical equations. The particle smashing experiments in the ultrastroboscopic-nano-microscope evetually lead to the discovery of quarks. That lead to the development of quantum mechanics. Then came gluon's to further explain them. Quarks and Gluons are the final building blocks which form the whole universe. They have weird properties and they are qualitatively different in the sense that they are *embodied ideas* (captured entropies).
 
-Gluons were discovered ass a class of equations called Chen Ning Yang & Robert Mills in 1954 as a mathematical generalization of Maxwells Equations of Electrodynamics. THe maxwell equations were generalized to support different type of charges and also be symmetrical.
+####1954:
+___________
 
-In 1973 The author Frank Wilczekproposed gluons as a type of generalized Maxwell equations to accomodate more charges. They are called color charges.
-Color Charges : David Gross & Frank Wilczek in 1973.
+QED equations were in place by 1931 but people were getting nonsensical results out of them until 1950. In 1950 Hans Bethe, Sin-Hiro, Tomonaga, Julian Schwinger, Feynman and Freeman Dyson used Feynman diagrams to correct and explain QED.  The essence of QED is that photons respond to presence and motion of electric charge. It explains electrodynamics, theory of electromagnetic fields and radiation.
 
-In the early 1960's Hadrons are found. Murray Gell-Mann & George Zweig propose the quark model. hadrons of different mass, spins & lifetimes can be assembled using quarks(up, down and strange).
-Meson = Q + Q'. Baryon = 3Q. AntiBaryon = 3Q'. These different alignments of different quarks are allowed in different states (orbits where there is a high probability of localizing the quarks). These different states have different energies; electrons in atom has different energies. The different energies represnt different masses using the equation m = E/(c^2).
+*Gluons* were discovered as a solution to a class of equations called Chen Ning Yang &Amp; Robert Mills equations in 1954. They were a mathematical generalization of Maxwell's Equations of Electrodynamics to support different type of charges and be symmetrical.
 
-Early 1970's : Jereome Friedman, henry Kendall, richard Taylor & collaborators at SLAC studies protons. SLAC gives the precise position & momentum for very precise time by taking multiple snapshots and taking a fourier transform. Each image developed by SLAC looks like pepperoni pizza. With the pepperoni's at different places. The fourier transform changes it to give us the position of partons / quarks in the proton.
+####1960's:
+______________
 
-Asymptotic freedom
-__________________
-When no charge is either felt ot exterted, i.e. charge -> 0 due to antiscreening. The center/seed particle at the middle of the particle cloud has virually 0 charge, But due to virtual screening its charge seems to increase as distance increases. But amid a system of particles with virtual particles antiscreening their effects are nullified.
+In the early 1960's Hadrons are found. Murray Gell-Mann &Amp; George Zweig propose the quark model. Hadrons of different mass, spins &Amp; lifetimes can be assembled using quarks (up, down and strange).
 
+	Meson = Q + Q'.
+	Baryon = 3Q.
+	AntiBaryon = 3Q'.
+
+These different alignments of different quarks are allowed in different states (orbits where there is a high probability of localizing the quarks). These different states have different energies; electrons in atom has different energies. The different energies represent different masses using the equation m = E/(c<sup>2</sup>).
+
+Feynman gave up when he realized that the equations for QED introduced space filling fields that allowed interaction between electrons and photons. Electromagnetic field interacts with fluctuation in electron field.
+
+####1970's;
+______________
+
+Early 1970's : Jereome Friedman, henry Kendall, richard Taylor &Amp; collaborators at SLAC studies protons. SLAC gives the precise position &Amp; momentum for very precise time by taking multiple snapshots and taking a Fourier transform. Each image developed by SLAC looks like pepperoni pizza. With the pepperoni's at different places representing the Quarks.
+
+####1973:
+___________
+
+In 1973, David Gross and the author, Frank Wilczek proposed *Gluons* as a type of generalized Maxwell equations to accommodate more charges. They are called Colour charges. They explain strong forces and asymptotic freedom.
+
+LEP shows us that the quarks(fundamental particles) are covered with their cloud of virtual particles which *antiscreen* them. When the particle and its cloud falls out of equilibrium a radiation of quark-antiquark pairs along with Gluons is seen.
+
+In the LEP, the quark was out of equilibrium due to being suddenly expelled  out from a virtual photon. Hence we see
+
+	e + e' &rarr; &gamma; virtual photon &rarr; Q+ Q.
+
+The quark and antiquark each have a cloud of virtual particles around them. The seed colour charge of the quark is very small but due to the screening by the virtual particles the charge appears to grow with distance. But when a quark and antiquark are in equilibrium they cancel out their charges. Antiscreening is the magnifying of the seed color charge by the virtual particles.
 In 1973 the author and Gross came up with a relativistic Quantum Field theory to explain this. The author called this generalized Yang and Mills equations as QCD.
-
-LEP shows us that the quarks(fundamental particles) are covered with their cloud of virtual particles which antiscreen them. When the particle and its cloud falls out of equlillibrium a radiation of quark-antiquark pairs is seem. Gluons also are seem
-Feynmann diagrams for e + e' -> Gamma virtual photon -> Q+ Q'.
-In LEP the quark was out of equillibrium due to being suddenly expelled  out from a virtual photon.
-
-
-Symmetry
-_________
-Distinction without a difference. <Insert QCD Lagrangian Equations>
-QED equations were in place by 1931 but people were getting nonsensical results out of them until 1950. In 1950 Hans Bethe, Sin-Hiro, Tomonaga(check), Julian Schwinger, Feynmann & Freeman Dyson straigtened things out. Essence of QED is that photons respond to presence & motion of electric charge, It explains electrodynamics, theory of electricity and magnetic fields & radiation. All through Feynmann Diagrams.
 
 QCD has 3 colors(Red Blue and Green) and 3 flavours(Up Down and Strange).
 Photon:electroMagnetic:QED :: Gluon:ColorCharge:QCD
-But QCD's charge deflection and response is more dramatic and vigerous. In QCD the forces are stronger.
-Gluons carry the unbalanced color charge and respond to each other. Color Gluon Fields are the solution to the problem of symmetrically changing the color field of a quark. The equations are tough to explain. But sure enough they were soon seen in reality through experiments.
-
+Distinction without a difference.
 
 GRID
 _____
 QCD teaches us that the empty space is actually a powerful medium filled with activity and virtual particles that are alive for only seconds.
-We use the term GRID as 'space-time' has the historic baggage of emptiness. But grid is essentially a new way to look at space time.
+The author uses the term GRID as 'space-time' has the historic baggage of emptiness. But grid is essentially a new way to look at space time.
 GRID view is actually viewing empty space as a super imposition of different grids over empty space
-EmptySpace + Quantum Fields + Metric Fields + Condensates + Dark Energy (4 layers on empty space make the grid)
+Empty Space + Quantum Fields + Metric Fields + Condensates + Dark Energy (4 layers on empty space make the grid)
 Matter originally only had the properties of shape and motion. Now we add these 4 layers.
-Einstiens first paper in 1905 declares the introduction of luminoferous ether. It bound the relativity theory of Maxwell(Electro Magnetic) with Newtonian as one equation bound by space time. ElectroMagnetic relativity was asserted by Lorentz and Poincare. Physical relativity by Newton. Einstien asserted the primacy of Electro Magnetic relativty.
-Max Plank had put the idea of Quantum Mechanics in 1899. He said atoms could exchange energy with electromagnetic fields only in discrete units(quantas). But Planks ideas were not standing with other physical laws at that time. It worked experimentally but not in theory. Einstien later expanded the theory to state that light always exists in quanta of momentum and energy. Einstien has doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave. If many singularity points were next to each other then the superposition of these waves would give rise to EM theory of light." He did not think that the maxwell electromagnetic fields had a life of their own; He thought that they arose from sigularity points, i.e. EM did not fill space but concentrated around singularities. Today we tink of them as photons. 1905 special relativity tells us to think of space as a ether based theory of Electro Magnetism. E= m * c^2 .
-In 1920's paper on general relativity he said that 1905 special relativity paper tells that the space as per special relativity theory space is a ether based medium. The general relativity paper introduced a new field. Gravitational field.
-Special theory unified EM and newtonian physics. General theory introduced a field based theory of gravity. A direct result of special relativity is quantum fields. Quantum electro magnetic fields that obey maxwell equations. These fields have energy packed in discrete units, which we call today as photons. Feynmann gave up when  he realized that the equations for QED introduced space filling fields that allowed interation between electrons and photons. EM field interacts with fluctuation in electron field.
 
-Condensates
+>	* The grid fills space and time
+>	* Every grid fragment has the same basic properties.
+>	* The grid is alive with quantum(spontaneous) activity. You must disturb it to observe it.
+>	* The grid contains enduring material components. The cosmos is a multilayered, multicoloured cuperconductor.
+>	* The grid contails a metric field that gives grid spacetime rigidity and causes gravity.
+>	* The grid weighs with a universal density
+
+
+####1979:
 ___________
-Empty space gives out a Q + Q' as QQ' molecules. These are called 'symbol:sigma' mesons. sigma meson can be verified using their vinrations symbol:pi mesons which lead to nobel prize in 1979 which got us the standard model or GLashow-Weinberg-Salam model.
-Activity in the W & Z boson fields generates weak interaction. Just like an activity in photon field creates electromagnetism; activity in color gluon fileds creates strong interaction.
+
+Condensates :-
+Empty space gives out a Q + Q' as QQ' molecules. These are called &sigma; mesons. &sigma; meson can be verified using their vibrations, the &pi; mesons. This lead to the Nobel prize in 1979 which got us the standard model or *Glashow-Weinberg-Salam* model.
+
+	Activity in the W & Z boson fields generates weak interaction.
+	Activity in photon field creates electromagnetism;
+	Activity in color gluon fields creates strong interaction.
+
+####1998:
+___________
+
+In 1998 scientists/cosmic observers reported that the rate of expansion of our universe is increasing. The reason given was universal negative pressure. People started using the term dark energy as a standard to refer to both the mass and negative pressure of the grid.
+
+####2001:
+___________
+
+By 2001, scientists were able to measure cosmic densities and pressures separately by observing the cosmic microscope background radiation. In 2001 scientists also proclaimed that there is much more matter than that is observable &Amp; that 70% of it is uniformly distributed.
+	
+Unification efforts :-
+	LEP ... Higgs Particle ...
+
+
+
+So the fact that the grid weights as & it has a non zero density is a proof of its physical reality.
+Grid density = Einstiens cosmological term = "dark energy"
+
+
+Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
+
+
+
+###Some Interesting Concepts
+_________________________________
 
 Standard Model
 ______________
-Just like the electron behaves in a super conductor, the W&Z boson behave in a superconducted manner in space. This makes us wonder if space is a giant Super conductor?
-Electrons respond very vigeously in a superconductor to electric and magnetic fields. Photon is a moving electromagnetic wave which we have evolved to sense. The electrons try to balance the electromagnetic disturbance in a superconductor. Hence electron causes a drag on the photon in a superconductor causing the photon to slow down. The slowed down photon in a superconductor obeys the same equations as an object with mass. So if space was a good superconductor for (W & Z)bosons, then they get mass. But then what is the field that they exist in? How do we explain that? The answer is that the QQ' pair falls short of contributing to boson mass by a factor of thousand. So the scientists are searching for (Peter Higgs, physicist, who pioneered the idea)higgs condensate. So the idea comes along that the space is a multilayered, multicolored superconductor.
+Just like the electron behaves in a super conductor, the W&Amp;Z boson behave in a superconducted manner in space. This makes us wonder if space is a giant Super conductor?
+>	Electrons respond very vigorously in a superconductor to electric and magnetic fields. Photon is a moving electromagnetic wave which we have evolved to sense. The electrons try to balance the electromagnetic disturbance in a superconductor. Hence electron causes a drag on the photon in a superconductor causing the photon to slow down. The slowed down photon in a superconductor obeys the same equations as an object with mass. So if space was a good superconductor for (W & Z)bosons, then they get mass. But then what is the field that they exist in? How do we explain that? The answer is that the QQ' pair falls short of contributing to boson mass by a factor of thousand. So the scientists are searching for (Peter Higgs, physicist, who pioneered the idea)higgs condensate. So the idea comes along that the space is a multilayered, multicolored superconductor.
 
 Metric Field
 ____________
@@ -91,25 +194,6 @@ In 1920 Einstoen said - "According to general theory of relativity space without
 Like the grid in the mercator map of the earth that teaches us how to interpretspace along North and East axis. Our 3D world also has/needs a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
 In general theory of relativity Einstien used the concept of curved spacetime to construct a theory of gravity. v = u + at(Newtons 2nd Law). Einstien modified it to explain that bodies move in the straigtest possible path through space time. When space time is curved teh path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field.
 So metric field = curved spacetime. Looking at it as a field view makes the equations similar to other fundamental equations. The gravity explained in terms of field view looks like the field theory of electromagnetism. Electric and magnetic fields bend the path of charged particles. So the grid view of gravity is that the metric fields bend the motion of objects, Consistency among the equations of field(metric), electromagnetism, QCD(Color charge) & weak interaction is a lot. Consistency demands that metric field be a quantum field, i.e. the fluctuations in the metric field be spontaneous. But the quantum nature of metric field is not yet well studied. Explaining quantum gravity would unify the forces.
-
-The Grid Weighs
-_______________
-So the fact that the grid weights as & it has a non zero density is a proof of its physical reality.
-Grid density = Einstiens cosmological term = "dark energy"
-In 1917, Einstien proposed a modification to his original equations of 1915 because of cosmology. As per Newtons 1692 understanding if the universe did not have a constant density Gravity would cause it to collapse onto itself. To allow his general relativity gravity to be consistant with special relativity, the only mathematically feasible solution was to add a cosmological constant term. By 1920's(Edwin Hubble) there was proof that the universe was actually expanding. So the cosmological term actually started to make sense.
-So space has a constant density symbol:rho and alsi a constant pressure everywhere in space 'p' such that rho = p/(c^2). It means that even if the space was expanded or contracted, the pressure that goes along with the density gets modified in such a way that the density always remains constant.
-By 2001, scientists were able to measure cosmic densities and pressures separately by observing the cosmic microscope background radiation. In 2001 scientists also proclaimed that there is much more matter than that is observable & 70% is uniformly distributed.
-in 1998 scientists/cosmic observers reported that the rate of expansion of our universe is increasing. The reason given was universal negative pressure. People started using the term dark energy as a standard to refer to both the mass and negative pressure of the grid.
-
-GRID recap
-__________
-- The grid fills space and time
-- Every grid fragment has the same basic properties.
-- The grid is alive with quantum(spontaneous) activity. You must disturb it to observe it.
-- The grid contains enduring material components. The cosmos is a multilayered, multicoloured cuperconductor.
-- The grid contails a metric field that gives grid spacetime rigidity and causes gravity.
-- The grid weighs with a universal density
-
 
 Computing Matter
 ________________
@@ -193,49 +277,3 @@ Dark energy forms 70% of the matter. It onfluences gravitationally but has shown
 
 The SUSY's predictions of some partner particles matches the description of dark matter. Matter that is neutral to charges & extremely long lived. QCD fails to forbit one small behaviour that is not observed. robert Peccei & Helen Quinn expand the equations to prevent it from occouring. Frank Wilzeck showed that the new equations predict a now very light weakly interacting particles called axions. Axions are a serious candidate too. Maybe both are right.
 
-
-This book is a simple guide to start and run a startup. The author focuses on
-creating simple businesses like travel websites and ticket books. It is a quick read. The book is well researched and this shows in all the details that the book provides. The book also shows the author's lifestyle. It touches all the topics of starting a startup and provides inspirational stories. 
-
-![100 Dollar Startup](/assets/images/100_dollar_startup_1.jpg)
-
-**The Good:-**
-
-  
-The author provides a definitive guide with examples for starting and running a
-startup. He talks about many decisions that a “$100 entrepreneur” would have to
-take and defends each piece of advise with lots of examples; lots of them. The
-topics that I like how the author covers are :-
-
-1.  Choosing a business idea
-
-2.  Finding customers
-
-3.  Increasing your market share
-
-4.  Advertisement and raising funds among others.
-
-  
-**The Bad:-**
-
-The author tries to give many examples about why it is a good idea to start your
-own business. But proof by examples can only be used to disprove an idea and not
-actually prove it.
-
-Main themes of the book:-
-
-1.  Find a right mixture of something you love to do, something people will pay
-    you to do and something you are good at.
-
-2.  Starting your own business in today's day and age does not require a huge
-    investment.
-
-3.  Testing and implementing your ideas is crucial.
-
-4.  Growing a business through traditional advertising from the data set he
-    studied is useless.
-
-5.  It is always better to invest in winners. (successful ideas than invest to
-    improve failures)
-
- 
