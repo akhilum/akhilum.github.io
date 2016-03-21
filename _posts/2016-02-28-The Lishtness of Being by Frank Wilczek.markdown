@@ -6,8 +6,9 @@ categories: Book-Review Science
 thumbnail: "/assets/images/lightness_of_being.jpg"
 excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
+
  
-##Review
+## Review ##
 
 The Lightness of being distills the concepts of reltivity, Quantum chromodynamics, Quantum electrodynamics and unification to a downright pedestrian language. It allows a person like me to grasp such a vast knowledge in a relatively short duration of time. A great read to bring you up to speed with the latest in science.
 
@@ -20,14 +21,14 @@ All in all, this is an excellent read. I would definately recomend this book to 
 _______________________________________
 
 
-###Summary 
+### Summary ###
 
 For me this book told a story of human grit and determination to determine what are these concepts of time, space and energy. This book spoke to me and helped me understand the history. Here is a brief timeline :-
 
 _________
 
 
-####1692:
+#### 1692: ####
 	
 Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
 
