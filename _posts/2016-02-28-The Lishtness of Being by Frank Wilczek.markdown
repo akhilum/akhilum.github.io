@@ -7,6 +7,7 @@ thumbnail: "/assets/images/lightness_of_being.jpg"
 excerpt: "The author, nobel laureate Frank Wilczek, explains the origin of mass, the specious weakness of gravity and unification of the forces. I review the book and summarize some concepts."
 ---
 
+________
 
 
 ## Review ##
@@ -33,7 +34,7 @@ _________
 	
 Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
 
-![Newtons Bucket](/images/assets/LightnessOfBeingNewtonsBucket.jpg)
+![Newtons Bucket](/assets/images/LightnessOfBeingNewtonsBucket.jpg)
 
 ___________
 
@@ -113,6 +114,7 @@ ___________
 Nuclear physics was a blooming field in the 1930's. They smashed many atoms and sub atomic particles to understand the composition of matter, but to no avail. It was giving them more sub atomic particles. They called them hadrons.
 
 electron + positron &rarr; 10 &Pi; Mesons + proton + antiproton
+
 2 x 10^-28 gms  &rarr;  6 x 10^-24 gms
 
 At that time Quarks / Partons were a mathematical propositions by Gellman and Feynman to solve theoretical equations. The particle smashing experiments in the ultrastroboscopic-nano-microscope evetually lead to the discovery of quarks. That lead to the development of quantum mechanics. Then came gluon's to further explain them. Quarks and Gluons are the final building blocks which form the whole universe. They have weird properties and they are qualitatively different in the sense that they are *embodied ideas* (captured entropies).
@@ -172,12 +174,12 @@ GRID view is actually viewing empty space as a super imposition of different gri
 Empty Space + Quantum Fields + Metric Fields + Condensates + Dark Energy (4 layers on empty space make the grid)
 Matter originally only had the properties of shape and motion. Now we add these 4 layers.
 
->	* The grid fills space and time
->	* Every grid fragment has the same basic properties.
->	* The grid is alive with quantum(spontaneous) activity. You must disturb it to observe it.
->	* The grid contains enduring material components. The cosmos is a multilayered, multicoloured cuperconductor.
->	* The grid contails a metric field that gives grid spacetime rigidity and causes gravity.
->	* The grid weighs with a universal density
+>	The grid fills space and time
+>	Every grid fragment has the same basic properties.
+>	The grid is alive with quantum(spontaneous) activity. You must disturb it to observe it.
+>	The grid contains enduring material components. The cosmos is a multilayered, multicoloured cuperconductor.
+>	The grid contails a metric field that gives grid spacetime rigidity and causes gravity.
+>	The grid weighs with a universal density
 
 ___________
 
@@ -208,10 +210,10 @@ Grid density = Einstiens cosmological term = "dark energy"
 
 Gravity pulls energy not mass. Mass is energy at rest. Mass is the irreducible representation of Poincare's group.
 	
-
+_________________________________
+_________________________________
 
 ### Some Interesting Concepts ###
-_________________________________
 
 
 Just like the electron behaves in a super conductor, the W&Amp;Z boson behave in a super-conducted manner in space. This makes us wonder if space is a giant Super conductor?
@@ -235,8 +237,10 @@ This explanation of why gravity appears weak and why mass of the photon seems le
 We were very eautifully able to explain why gravity appears to be feeble and hence why the mass of the proton is small by observing the laws of physics. But to verify them we would need to craete energies for larger than LHC can measure. We need to look elsewhere.
 The standard / core model organizes the particles as we find them. It has helpedis develop lasers, ultra small & reliable computer memories, nuclear reactors.
 
-##Unification :-
 _________________
+
+### Unification :- ###
+
 Strong interaction of QCD explains how the color charges of the gluon fields cause the creation of hadrons like photons & neutrons out of quarks, antiquarks &Amp; gluons. The hadrons have their colour charges almost balanced but residual forces (the delta in localization of quarks) bind proton and neutrons togeather in an atomic nuclei. The electromagnetic interaction of the hypercharge in return binds electrons to the nuclei. This almost balances the electronic charges but the residual electronic charges causes creation of molecules & materials. The QED describes all these interactions along with all electromagnetic radiation.
 
 The weak interaction performs alchemy. It changes different quark flavours into one another & different leptons into one another. Weak interaction causes nuclear chemistry. If one up quark in a proton is converted into a down quark the proton loses its charge and it becomes a neutron. It causes the atomic nucleus of one element to become another element. Stars derive energy by converting protons into neutrons.
@@ -244,9 +248,10 @@ The weak interaction performs alchemy. It changes different quark flavours into 
 So right now we explain weak interaction as vertical transformations in the core model & strong interactions as horizontal transformations.
 Mathematically the most convincing way to put togeather QED, QCD and Gravity is to use a transformation called the SO(10). Doing so fits togeather the scatterd clusters of quarks & leptons togeather. This is called teh charge account. In SO(10) half get +1 charge the other half get -1 charge & can be transformed into one another using RBG color charge fields. What this translates into for core accout from charge account is that the color charges RBG cancel out and only negative charge is left for electron. The N-neutrino has no electric or weak colour charge (Green, Purple) or Strong Colour charge(R, B, G). This allows us to add on extra particles &mu;<sup>R</sup> that allow neutrinos to have tiny mass. Thus we get the unified theory (17.2 for diagrams).
 
-
-SUSY - Super Symmetry
 _____________________
+
+
+### SUSY - Super Symmetry ###
 
 SO(10) unified gauge bosons in a same cluster; and quarks and lepton in the same cluster. But ordinary symmetry cannot bring them into same custer as they are particles of different spins. To unify these, SYSY adds the spin of the particle as a dimension. When a body moves through a quantum dimension it gets displaced, i.e., Its spin changes. The superboost moves the particles & changes their spin. When a quantum particle moves through quantum dimensions its mass and spin changes- so does its position. But its charge remains the same(Color and EM).
 Just like maxwell equations predicted moving Electric fields. SUSY predicts new fields. It doubles them. This allows us to unify gravity along with the electromangetic, weak and strong forces.
