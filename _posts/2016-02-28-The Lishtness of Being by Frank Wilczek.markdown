@@ -24,76 +24,82 @@ _______________________________________
 
 For me this book told a story of human grit and determination to determine what are these concepts of time, space and energy. This book spoke to me and helped me understand the history. Here is a brief timeline :-
 
+_________
+
 
 ####1692:
-_________
 	
 Newton and his contemporaries gave mathematical reasoning to help us describe the behaviour of light, gravity and forces. We know today that gravity actually attracts energy and not mass, but in 1692, they did not have the right tools to answer such questions. This can be seen from their frustration in works like [The Bucket Argument](https://en.wikipedia.org/wiki/Bucket_argument).
 
-[http://images.slideplayer.com/19/5837101/slides/slide_7.jpg](http://images.slideplayer.com/19/5837101/slides/slide_7.jpg)
+![Newtons Bucket](/images/assets/LishtnessOfBeingNewtonsBucket.jpg)
 
-####1846:
-_________
-
-In 1846, 200 years after Newton encoded Kepler's three laws of planetary motion in his laws of gravity, we observe discrepancies in the orbit of Uranus. [*Urbion Le Verrier*](https://en.wikipedia.org/wiki/Urbain_Le_Verrier) found he could account for these by assuming a new planet - Neptune! Science has made breakthroughs for like this consistently for the last couple of centuries helping mankind. As a society we have now completely exited the renaissance period and entering the modern period.
-
-[https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg](https://en.wikipedia.org/wiki/Neptune#/media/File:Neptune_Full.jpg)
+___________
 
 ####1873:
-___________
 
-James Clerk Maxwell and Michael Faraday layout the theory of classical electromagnetism. They represent electricity and magnetism as waves and this helped develop motors, dynamos and lamps.
+James Clerk Maxwell and Michael Faraday layout the theory of classical electromagnetism. They represent electricity and magnetism as waves. This helped develop motors, dynamos and lamps.
+
+__________
 
 ####1899:
-__________
 
 Max Plank said that atoms could exchange energy only in packets, a.k.a. *Quantas*. He came to this result as a conclusion to solve the age old problem of absolute units laid out by Pythagoras of Samoa.
-Max Plank laid out the universal constants for time, speed and energy. At that time Plank has solid equations but the results were inconsistent with the existing ideas and laws at that time. Thus began the revolution. It was experimentally verified but theoretically his ideas were an outcast.
-L<sub>p</sub>equals the square root of h  G By c cube. Mass,
-M<sub>p</sub> equals the square root of h C By G, and Time,
-T<sub>p</sub> equals the square root of h G by c power 5 
+Max Plank laid out the universal constants for time, speed and energy.
+
+![Absolute Plank Units](/assets/images/LightnessOfBeing_PlankUnits.gif)
+
 The 20th century physicists realized that C G and h play the role of conversion factors needed to express a profound physical concept.
-- Special relativity mixes space and time into spacetime. It does so using Lorentz Transforms a.k.a. boosts. To do this you need a conversion factor b/w a unit of space and a unit of time. The conversion factor is 'c'.
-- Quantum theory says E=h*mu. Wave particle duality. Where h is the conversion factor. It also says that momentum is inverely proportinal to wavelength symbol:lambda.
-- General relativity says that energy momentum density inducess space time curvature. 'G' is the conversion factor.
++ Special relativity mixes space and time into spacetime. It does so using Lorentz Transforms a.k.a. boosts. To do this you need a conversion factor between a unit of space and a unit of time. The conversion factor is *c*.
++ Quantum theory says E=h*&mu;. Wave particle duality. Where *h* is the conversion factor. It also says that momentum is inverely proportinal to wavelength &lambda;.
++ General relativity says that energy momentum density inducess space time curvature. *G* is the conversion factor.
 
+At that time Plank has correct equations but the results were inconsistent with the existing ideas and laws at that time. It was experimentally verified but theoretically his ideas were an outcast.
 
-####1905:
 __________
 
-Einstein expanded the theory to state that light always exists in quanta of momentum and energy . Chemistry has made a huge progress and has reached the atomic stage. Classical electrodynamics thought of electricity as a fluid and that it needed a medium to flow. The turn of the 20th century saw the beginning of Quantum Electrodynamics or *QED*. Which explained that electricity actually moved through vacuum as a wavicle or a particle-wave. QED tried to explain the 1897 Hertz experiment of movement of electricity through vacuum. Einstein had doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave. His 1909 paper explained how photons have both momentum and energy - wave particle duality. If many singularity points were next to each other then the superposition of these waves would give rise to EM theory of light." He thought that the photons were localized EM fields which arise around the singularity points, i.e., EM did not fill space but concentrated around singularities. 1905 special relativity tells us to think of space as a ether based theory of Electro Magnetism. This theory gave us the equation E=mc<sup>2</sup> .
+####1905:
+
+Einstein expanded the theory to state that light always exists in quanta of momentum and energy .
+Chemistry has made a huge progress and had reached the atomic stage. Classical electrodynamics thought of electricity as a fluid and that it needed a medium to flow. The turn of the 20th century saw the beginning of Quantum Electrodynamics or *QED*. Which explained that electricity actually moved through vacuum as a wavicle or a particle-wave. QED tried to explain the 1897 Hertz experiment of movement of electricity through vacuum. Einstein had doubts on his theory until 1909 where he states in his paper that "he thought that each singularity point was surrounded by a plane wave.
+His 1909 paper explained how photons have both momentum and energy - wave particle duality. If many singularity points were next to each other then the superposition of these waves would give rise to EM theory of light." He thought that the photons were localized EM fields which arise around the singularity points, i.e., EM did not fill space but concentrated around singularities. 1905 special relativity tells us to think of space as a ether based theory of Electro Magnetism. This theory gave us the equation E=mc<sup>2</sup> .
+
+___________
 
 ####1915:
-___________
 
-Einstein gave us the general theory of relativity. This theory models space as space time and explains how matter and energy can interact with space and time. His theories were checked experimentally.
+Einstein gave us the general theory of relativity. This theory models space as space time and explains how matter and energy can interact with space and time. His theories were proven experimentally. 
+
+___________
 
 ####1917:
-___________
 
-In 1917, Einstein proposed a modification to his original equations of 1915 because cosmologists discovered that the universe is not collapsing onto itself due to gravity. As per Newtons 1692 understanding if the universe did not have a constant density Gravity would cause it to collapse onto itself. To allow his general relativity gravity to be consistent with special relativity, the only mathematically feasible solution was to add a cosmological constant term. By the 1920's, Edwin Hubble showed that the universe was actually expanding. So the cosmological term actually started to make sense.
+In 1917, Einstein proposed a modification to his original equations of 1915 because cosmologists discovered that the universe is not collapsing onto itself due to gravity. As per Newtons 1692 understanding if the universe did not have a constant density, then Gravity would cause it to collapse onto itself. To allow his general relativity gravity to be consistent with special relativity, the only mathematically feasible solution was to add a cosmological constant term. By the 1920's, Edwin Hubble showed that the universe was actually expanding. So the cosmological term actually started to make sense.
 
 In 1918 -1925 Einstein developed the Bose-Einstein statistics with *Satendra Nath Bose* to describe Bose-Einstein condensates. Which form the basis of our super fluidity, super conductivity and the GRID.
 
 So space has a constant density &rho; and a constant pressure everywhere in space *p* such that 
-&rho; = *p/(c<sup>2</sup>)*.
-It means that even if the space was expanded or contracted, the pressure that goes along with the density gets modified in such a way that the density always remains constant.
+	
+	> &rho; = *p/(c<sup>2</sup>)*.
 
-####1920:
+It means that even if the space was expanded or contracted, the pressure that goes along with the density gets modified in such a way that the density always remains constant. This is the *GRID* density we will refer to later.
+
 ___________
 
-In 1920's paper on general relativity he said that 1905 special relativity paper tells that the space as per special relativity theory space is a ether based medium. The general relativity paper introduced a new field. Gravitational field.
+
+####1920:
+
+In 1920's paper on general relativity he said that 1905 special relativity paper tells that the space as per special relativity theory space is a ether based medium. The general relativity paper introduced a new field - Gravitational field.
 
 Special theory unified electromagnetism and Newtonian physics. General theory introduced a field based theory of gravity. A direct result of special relativity is quantum fields. Quantum electro magnetic fields that obey Maxwell equations. These fields have energy packed in discrete units, which we call today as photons.
 
-Metric Field
-____________
+	#Metric Field
+	____________
 
->	"According to general theory of relativity space without ether is unthinkable; for in such space there not only would be no propogation of light but also no possibility of existance for standards of space and time, nor therefore any space time intervals in the physical sense." - Einstein, 1920
+		>	"According to general theory of relativity space without ether is unthinkable; for in such space there not only would be no propogation of light but also no possibility of existance for standards of space and time, nor therefore any space time intervals in the physical sense." - Einstein, 1920
 
-Like the grid on the map of the earth tells us how to interpret distance. Our 3D world also has a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
+	Like the grid on the map of the earth tells us how to interpret distance. Our 3D world also has a grid of instructions which is called the metric field. If we add time as another dimension to that field we get the space time relativity. One guys time is another guys space time.
 
-In general theory of relativity Einstein used the concept of curved space-time to construct a theory of gravity and explained momentum as bodies move in the straightest possible path through space time. When space time is curved the path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field. The equations of the field view of gravity are symmetrical to the field view of electromagnetism.
+	In general theory of relativity Einstein used the concept of curved space-time to construct a theory of gravity and explained momentum as bodies move in the straightest possible path through space time. When space time is curved the path also wiggles to adapt to the local geometry, i.e. the bodies respond to the metric field. The equations of the field view of gravity are symmetrical to the field view of electromagnetism.
 
 ####1930: 
 ___________
@@ -144,9 +150,8 @@ In the LEP, the quark was out of equilibrium due to being suddenly expelled  out
 The quark and antiquark each have a cloud of virtual particles around them. The seed colour charge of the quark is very small but due to the screening by the virtual particles the charge appears to grow with distance. But when a quark and antiquark are in equilibrium they cancel out their charges. Antiscreening is the magnifying of the seed color charge by the virtual particles.
 In 1973 the author and Gross came up with a relativistic Quantum Field theory to explain this. The author called this generalized Yang and Mills equations as QCD.
 
-QCD has 3 colors(Red Blue and Green) and 3 flavours(Up Down and Strange).
-Photon:electroMagnetic:QED :: Gluon:ColorCharge:QCD
-Distinction without a difference.
+	> QCD has 3 colors(Red Blue and Green) and 3 flavours(Up Down and Strange).
+	> Photon:electroMagnetic:QED :: Gluon:ColorCharge:QCD
 
 GRID
 _____
